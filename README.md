@@ -94,8 +94,9 @@ You can use MongoDB Atlas or a local instance.
 ---
 
 ## 📸 Screenshots
+![Register](image-0.png)
 
-![Login](image.png)
+![Login](image-1.png)
 
 ![Home](image-2.png)
 
